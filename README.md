@@ -22,3 +22,7 @@
 
 [`localStorage.getItem()`](https://developer.mozilla.org/en-US/docs/Web/API/Storage/getItem)
 
+
+<br>
+
+[localStorage example](https://gist.github.com/ross-u/55c95e54bbfd7f992bbee92a45478172)
