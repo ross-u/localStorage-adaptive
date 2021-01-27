@@ -18,7 +18,7 @@
 [`JSON.parse()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 
 
-[localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+[`localStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 
 
