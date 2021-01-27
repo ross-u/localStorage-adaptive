@@ -1,6 +1,6 @@
 
 
-# Adaptive - `localStorage`
+# M1 Adaptive - `localStorage`
 
 
 
